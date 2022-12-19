@@ -320,10 +320,10 @@ $
 
 ## Authors ##
 
-👤 **BESTHOR IGBE**
+👤 **KENNEDY UFENE**
 
-- GitHub: [@besthor] (https://github.com/besthor)
+- GitHub: [@ufenekenn] (https://github.com/ufenekenn)
 
-👤 **MOSURO KANYINSOLA OLUBUNMI**
+👤 **SUCCESS BRAIMOH**
 
-- GitHub: [@](https://github.com)
+- GitHub: [@tattoomillitary](https://github.com/tattoomillitary)
